@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shadowdemon658
 - 👀 I’m interested in Minecraft Modding
-- 🌱 I’m currently in school 9th standard to be exact. I know most of python and Java
 - 💞️ I’m looking to collaborate on Minecraft Mods
 - 📫 How to reach me-
         my discord- vineet65#1868
